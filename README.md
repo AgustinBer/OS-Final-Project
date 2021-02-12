@@ -14,3 +14,5 @@ Simulation of a distributed system that uses an analogy of food ordering like Ub
 * Virtualization
 * Paging and segmentation.
 * **Linux**: Shell Scripting, Profiling tools, Build automation 
+
+**Done by**: Bevilacqua, Guido ; Bergoglio V. Agustin ; De Cesare, Agustin ; Gil Peña, Agustin ; Berrojalviz Aguirre, Tomas 
