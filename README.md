@@ -2,4 +2,6 @@
 Final project done on Operative Systems at National Technological University
 
 ## Description
-Simulation of a distributed system that uses the concept of food ordering, using different modules intercommunicated with each other and programmed in C language.
+Simulation of a distributed system that uses an analogy of food ordering like Uber Eats to explain different concepts like distributed processing, integration and synchronization in C Language.
+
+**Keywords**: Concurrency, Threads, Memory management, Process management, scheduling and intercommunication; Filesystem, Virtualization, Paging and segmentation.
